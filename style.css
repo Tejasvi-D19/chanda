@@ -1,0 +1,9 @@
+body{
+    background-image: url(chandu.jpg);
+    block-size: 10px 10px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: auto;
+
+}
