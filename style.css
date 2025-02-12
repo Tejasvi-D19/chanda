@@ -1,9 +1,18 @@
 body{
-    background-image: url(chandu.jpg);
-    block-size: 10px 10px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: auto;
+   
+    background-color: rgb(200, 217, 220);
 
+}
+
+h1{
+    color: rgb(128, 118, 162);
+}
+
+h3 {
+    color: rgb(128, 118, 162);
+}
+
+hr{
+    
+    background-color: white;
 }
